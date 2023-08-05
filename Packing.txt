@@ -1,9 +1,14 @@
-29.10.2022
+die Sonne
+The sun
 
-die Sonne -> The sun
-der Laptop -> The laptop
-das Meer -> The ocean
-das Schloss -> The castel
+der Laptop
+The laptop
+
+das Meer
+The ocean
+
+das Schloss
+The castel
 
 Ich möchte das Meer sehen!
 I would like to see the sea
@@ -49,15 +54,23 @@ You need a little sun, take a vacation!
 
 -------
 
-30.10.2022
+der Badeanzug
+The swimsuit
 
-der Badeanzug -> The swimsuit
-Welchen Badeanzug magst du? -> Which swimsuit do you like?
-Welchen Badeanzug willst du kaufen? -> Which swimsuit do you want to buy
-Welchen Badeanzug möchtest du kaufen? -> Which swimsuit would you like to buy?
+Welchen Badeanzug magst du?
+Which swimsuit do you like?
 
-Ich muss diesen Hut Kaufen! -> I have to buy this hat
-Magst du diesen Hut für deinen Urlaub -> Do you like this hat for your vacation?
+Welchen Badeanzug willst du kaufen?
+Which swimsuit do you want to buy
+
+Welchen Badeanzug möchtest du kaufen?
+Which swimsuit would you like to buy?
+
+Ich muss diesen Hut Kaufen!
+I have to buy this hat
+
+Magst du diesen Hut für deinen Urlaub
+Do you like this hat for your vacation?
 
 Zahlst du wirklich hundert Euro für diesen Hut?
 Are you really paying one hundered euros for this hat
@@ -85,9 +98,8 @@ Yes, the swimsuit is small, it is for my mouse
 
 -------
 
-31.10.2022
-
-die Tasche -> The bag
+die Tasche
+The bag
 
 Welche Tasche magst du?
 Which bag do you like?
@@ -133,9 +145,8 @@ I am not buying the bag, it is too heavy
 
 -------
 
-02.11.2022
-
-die Socken -> the socks
+die Socken
+the socks
 
 Willst du diese Jeans einpacken?
 Do you want to pack these jeans?
@@ -184,32 +195,50 @@ My backpack is full, where is your suitcase?
 
 -------
 
-03.11.2022
-
-Joggst du jetzt? -> Are you jogging now?
+Joggst du jetzt?
+Are you jogging now?
 
 Das Wetter ist heiß, aber du joggst heute
 The weather is hot, but you are jogging today
 
-Was machst du heute? -> What are you doing?
-Was machst du jetzt? -> What are you doing now?
+Was machst du heute?
+What are you doing?
 
-Ich frühstücke jetzt -> I am eating breakfast now
-Ich frühstücke jetzt. Die Milch ist lecker
-Frühstückst du jetzt? -> Are you eating breakfast now?
-Wo frühstückst du heute? -> Where are you eating breakfast today?
-Frühstückst du heute Morgen? -> Are you eating breakfast this morning?
+Was machst du jetzt?
+What are you doing now?
+
+Ich frühstücke jetzt
+I am eating breakfast now
+
+Die Milch ist lecker
+The milk is tasty
+
+Frühstückst du jetzt?
+Are you eating breakfast now?
+
+Wo frühstückst du heute?
+Where are you eating breakfast today?
+
+Frühstückst du heute Morgen?
+Are you eating breakfast this morning?
 
 Spielst du heute Morgen Schach?
 Are you playing chess this morning?
 
-Was machst du heute Morgen? -> What are you doing this morning?
-Ich koche und ich frühstücke -> I'm cooking and I'm eating breakfast.
+Was machst du heute Morgen?
+What are you doing this morning?
 
-Warum ist Deutsch so cool? -> Why is German so cool?
+Ich koche und ich frühstücke
+I'm cooking and I'm eating breakfast.
 
-Julia, was machst du heute Morgen? -> Julia what are you doing this morning?
-Ich schwimme heute morgen -> I am swimming this morning
+Warum ist Deutsch so cool?
+Why is German so cool?
+
+Julia, was machst du heute Morgen?
+Julia what are you doing this morning?
+
+Ich schwimme heute morgen
+I am swimming this morning
 
 Ich frühstücke heute Morgen und die Pizza ist so gut!
 I am eating breakfast this morning and the pizza is so good!
@@ -222,27 +251,39 @@ Why are you jogging this morning?
 
 -------
 
-04.11.2022
+Wo surfst du?
+Where do you surf?
 
-Wo surfst du? -> Where do you surf?
-Ich surfe oft in Hawaii -> I surf often in Hawaii
-Ich surfe im Sommer -> I surf in summer
-Surfst du auch im Winter? -> Do you also surf in the winter?
+Ich surfe oft in Hawaii
+I surf often in Hawaii
 
-im Urlaub -> on vacation
+Ich surfe im Sommer
+I surf in summer
 
-Ich koche oft im Urlaub -> I cook often on vacation
+Surfst du auch im Winter?
+Do you also surf in the winter?
+
+im Urlaub
+on vacation
+
+Ich koche oft im Urlaub
+I cook often on vacation
 
 Surfst du oft im Urlaub?
+Do you surf quite often during the vacations
+
 Nein, aber ich schwimme oft im Urlaub
 No, but I often swim on vacation
 
 Wanderst du jeden Tag?
 Do you hike every day?
 
-jeden Tag -> Every day
+jeden Tag
+Every day
 
 Was machst du im Urlaub?
+What do you do in your vacactions
+
 Ich male manchmal im Urlaub
 I sometimes paint on vacation
 
@@ -263,8 +304,6 @@ Sie ist Kellnerin und sie joggt jeden Tag
 She is a waitress and she jogs every day
 
 -------
-
-05.11.2022
 
 Spielst du jeden Tag Fußball?
 Do you play soccer every day?
